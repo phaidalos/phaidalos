@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Korea National Sport University
 
-- 2006-Spring: Computer Practical Application 1
+- 2006-Spring: Computer Practical Application 1 (undergrad course)
 + 2021-Autumn - present
   - Undergrad courses: Introduction to Web Design, Web-Mobile Program in Sport, Computer Design Programming, Computational thinking and programming, Creative software design
   - Grad course(s): Future Society and Sports Metaverse
