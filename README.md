@@ -12,8 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Independent researcher
 
 ## Teaching
 
 ### Korea National Sport University
+
+- 2006-Spring: Computer Practical Application 1
++ 2021-Autumn - present
+  - Undergrad: Introduction to Web Design, Web-Mobile Program in Sport, Computer Design Programming, Computational thinking and programming, Creative software design
+  - Grad: Future Society and Sports Metaverse
