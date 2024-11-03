@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 -->
 ## Independent researcher
 
+### Topics
+
+ - artificial autopoietic intelligent system
+ - mathematical model of metaverse
+ - identity system for metaverse
+   
 ## Teaching
 
 ### Korea National Sport University
